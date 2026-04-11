@@ -1,3 +1,8 @@
+# leave db itself in repository for judge access
+*.db-shm
+*.db-wal
+*.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
